@@ -1,16 +1,11 @@
-## Hi there 👋
+# 👋 Olá! Bem vindo ao meu perfil no Github.
+## Meu nome é Everton!
 
-<!--
-**Everton-Antonio-Barbosa/Everton-Antonio-Barbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou em transição de carreira para Tenologia. 
+- 🌱 Atualmente estou aprendendo Segurança da Informação, Computação em Nuvem, FinOps e BackEnd.
+- 👯 Estou procurando colaborar em Segurança da Informação ou em Computação em Nuvem
+- 🤔 Estou procurando ajuda com programação.
+- 💬 Pergunte-me sobre a minha transição de carreira, meus cachorros, minhas leituras e musculação.
+- 📫 Como entrar em contato comigo: pelo meu LinkedIn <https://www.linkedin.com/in/everton-antonio-barbosa/>
+- 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidade: Sou advogado, mas sempre gostei de Tecnologia. 
